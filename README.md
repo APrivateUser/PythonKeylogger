@@ -1,6 +1,6 @@
 This keylogger is available for usage. This is a free open-source project. Currently this is working on Windows and Linux (on Linux it wasn't tested).
 ***
-HOW TO INSTALL:
+```HOW TO INSTALL:```
 
 1. Open a terminal and type in ```git clone https://github.com/APrivateUser/PythonKeylogger.git```
 
